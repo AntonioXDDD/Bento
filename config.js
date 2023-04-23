@@ -31,9 +31,9 @@ const CONFIG = {
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
-	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '14.670',
-	defaultLongitude: '-86.218',
+	trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
+	defaultLatitude: '14.65',
+	defaultLongitude: '-86.2',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Spotify',
+					link: 'https://open.spotify.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Instagram',
+					link: 'https://www.instagram.com/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Twitch',
+					link: 'https://www.twitch.tv/?lang=es',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Monkeytype',
+					link: 'https://monkeytype.com/',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Notion',
+					link: 'https://www.notion.so/antonioxd/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Drive',
+					link: 'https://drive.google.com/drive/my-drive',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'UNICAH',
+					link: 'https://unicah.edu/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'UNAH',
+					link: 'https://campusvirtual.unah.edu.hn/',
 				},
 			],
 		},
