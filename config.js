@@ -143,16 +143,16 @@ const CONFIG = {
 					link: 'https://open.spotify.com/',
 				},
 				{
+					name: 'Netflix',
+					link: 'https://www.netflix.com/browse',
+				},
+				{
 					name: 'Instagram',
 					link: 'https://www.instagram.com/',
 				},
 				{
 					name: 'Twitch',
 					link: 'https://www.twitch.tv/?lang=es',
-				},
-				{
-					name: 'Monkeytype',
-					link: 'https://monkeytype.com/',
 				},
 			],
 		},
